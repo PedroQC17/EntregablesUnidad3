@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">30 Dias Para Leer</string>
+    <!-- Book Names -->
+    <string name="book_name_1">Forbidden</string>
+    <string name="book_name_2">Hale</string>
+    <string name="book_name_3">Flowers in the Attic</string>
+    <string name="book_name_4">Cement Garden</string>
+    <string name="book_name_5">The New Hotel Hampshire</string>
+    <string name="book_name_6">Forgotten Tomes</string>
+    <string name="book_name_7">Midnight Reader</string>
+    <string name="book_name_8">The Golden Spine</string>
+    <string name="book_name_9">Whispers Between Pages</string>
+    <string name="book_name_10">The Book Thief\'s Secret</string>
+    <string name="book_name_11">Eternal Ink</string>
+    <string name="book_name_12">The Cursed Edition</string>
+    <string name="book_name_13">Library of Lost Dreams</string>
+    <string name="book_name_14">The Paper Fortress</string>
+    <string name="book_name_15">Secrets of the Shelf</string>
+    <string name="book_name_16">The Dusty Codex</string>
+    <string name="book_name_17">Readers of the Night</string>
+    <string name="book_name_18">The Forbidden Archive</string>
+    <string name="book_name_19">Titanic Letters</string>
+    <string name="book_name_20">The Vanishing Novel</string>
+    <string name="book_name_21">Bound in Leather</string>
+    <string name="book_name_22">The Unwritten End</string>
+    <string name="book_name_23">Pages from the Deep</string>
+    <string name="book_name_24">The Quiet Bookshop</string>
+    <string name="book_name_25">Ink and Shadows</string>
+    <string name="book_name_26">The Last Bookstore</string>
+    <string name="book_name_27">Chronicles of Dust</string>
+    <string name="book_name_28">The Hidden Manuscript</string>
+    <string name="book_name_29">Stories That Never End</string>
+    <string name="book_name_30">The Book of Forgotten Names</string>
+
+    <!-- Book Descriptions -->
+    <string name="book_description_1">Una misteriosa historia que alguna vez fue prohibida</string>
+    <string name="book_description_2">Relatos del barco más grande de todos los tiempos</string>
+    <string name="book_description_3">El silencio guarda más secretos que las palabras</string>
+    <string name="book_description_4">Cada página esconde una verdad más oscura</string>
+    <string name="book_description_5">Cuando la historia se niega a terminar</string>
+    <string name="book_description_6">Libros que el tiempo intentó borrar</string>
+    <string name="book_description_7">Leyendo bajo la luz de la luna</string>
+    <string name="book_description_8">Un viaje a través de encuadernaciones doradas</string>
+    <string name="book_description_9">Voces que solo hablan entre líneas</string>
+    <string name="book_description_10">Qué pasa cuando un ladrón se enamora de las historias</string>
+    <string name="book_description_11">Tinta que nunca se desvanece, ni después de siglos</string>
+    <string name="book_description_12">Algunas ediciones nunca debieron imprimirse</string>
+    <string name="book_description_13">Sueños guardados en estantes olvidados</string>
+    <string name="book_description_14">Una fortaleza construida solo de papel y palabras</string>
+    <string name="book_description_15">Los estantes lo recuerdan todo</string>
+    <string name="book_description_16">Conocimiento antiguo cubierto de polvo</string>
+    <string name="book_description_17">Aquellos que leen cuando el mundo duerme</string>
+    <string name="book_description_18">Un archivo que nunca debió ser encontrado</string>
+    <string name="book_description_19">Cartas que sobrevivieron al frío Atlántico</string>
+    <string name="book_description_20">Una novela que desaparece después de leerla</string>
+    <string name="book_description_21">Encuadernado en el mejor cuero y los secretos más oscuros</string>
+    <string name="book_description_22">El final nunca fue escrito… hasta ahora</string>
+    <string name="book_description_23">Historias recuperadas de las profundidades del océano</string>
+    <string name="book_description_24">Un lugar tranquilo donde cada libro tiene un alma</string>
+    <string name="book_description_25">Donde la tinta se encuentra con las sombras del pasado</string>
+    <string name="book_description_26">El último refugio de los verdaderos amantes de los libros</string>
+    <string name="book_description_27">Crónicas escritas en polvo olvidado</string>
+    <string name="book_description_28">Un manuscrito que nunca debió existir</string>
+    <string name="book_description_29">Historias que continúan mucho después de la última página</string>
+    <string name="book_description_30">Nombres que fueron borrados de la historia</string>
+</resources>
